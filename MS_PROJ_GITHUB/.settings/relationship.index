@@ -1,1 +1,16 @@
-[ ]
+[ {
+  "baseItem" : {
+    "id" : "_dRFnQLZLEey0lYtQ1JW1bQ",
+    "version" : "0.1",
+    "type" : "job"
+  },
+  "relatedItems" : [ {
+    "id" : "_9ILNgL9zEeyPxqcvuVwTQw",
+    "version" : "Latest",
+    "type" : "property"
+  }, {
+    "id" : "_9ILNgL9zEeyPxqcvuVwTQw - bootcamp_april2022",
+    "version" : "Latest",
+    "type" : "schema"
+  } ]
+} ]
