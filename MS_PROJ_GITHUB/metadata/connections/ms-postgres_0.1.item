@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><xmi:XMI xmlns:xmi="http://www.omg.org/XMI" xmlns:TalendMetadata="http://www.talend.org/metadata/connection/2010" xmlns:orgomg.cwm.resource.relational="http:///orgomg/cwm/resource/relational.ecore" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmi:version="2.0">
+  <TalendMetadata:DatabaseConnection AdditionalParams="" DatabaseType="PostgreSQL" DatasourceName="" DbmsId="postgres_id" DriverClass="org.postgresql.Driver" FileFieldName="" NullChar="" Password="enc:system.encryption.key.v1:zPumWeutSi+MUKCy6I9KDmmOULvAu84aAtZKPc/H55UKf4jNkqk=" Port="5432" ProductId="POSTGRESQL" SID="gemini" SQLMode="false" ServerName="ec2-13-58-203-182.us-east-2.compute.amazonaws.com" SqlSynthax="" StandardSQL="true" StringQuote="" URL="jdbc:postgresql://ec2-13-58-203-182.us-east-2.compute.amazonaws.com:5432/gemini?" UiSchema="public" Username="postgres" dataPackage="__ofVcPN5EeyQfpYfjW-H4w" dbVersionString="V9_X" id="_p1YOcPN5EeyQfpYfjW-H4w" label="ms-postgres" name="ms-postgres" xmi:id="__PowkPN5EeyQfpYfjW-H4w">
+    <taggedValue tag="Is Conn Need Reload" value="false" xmi:id="__PowkfN5EeyQfpYfjW-H4w"/>
+    <taggedValue tag="package filter" value="" xmi:id="__QE1cPN5EeyQfpYfjW-H4w"/>
+    <taggedValue tag="Status" value="" xmi:id="__QE1cfN5EeyQfpYfjW-H4w"/>
+    <taggedValue tag="Version" value="0.1" xmi:id="__QE1cvN5EeyQfpYfjW-H4w"/>
+    <taggedValue tag="Purpose" value="" xmi:id="__QE1c_N5EeyQfpYfjW-H4w"/>
+    <taggedValue tag="Description" value="" xmi:id="__QE1dPN5EeyQfpYfjW-H4w"/>
+    <taggedValue tag="Author" value="" xmi:id="__QE1dfN5EeyQfpYfjW-H4w"/>
+    <taggedValue tag="otherParameter" xmi:id="__QE1dvN5EeyQfpYfjW-H4w"/>
+    <taggedValue tag="DB ProductName" value="PostgreSQL" xmi:id="__cFRIPN5EeyQfpYfjW-H4w"/>
+    <taggedValue tag="DB ProductVersion" value="13.4" xmi:id="__cFRIfN5EeyQfpYfjW-H4w"/>
+    <taggedValue tag="DB IdentifierQuoteString" value="&quot;" xmi:id="__cFRIvN5EeyQfpYfjW-H4w"/>
+    <parameters key="CONN_PARA_KEY_USERNAME" value="postgres" xmi:id="__PowkvN5EeyQfpYfjW-H4w"/>
+  </TalendMetadata:DatabaseConnection>
+  <orgomg.cwm.resource.relational:Catalog dataManager="__PowkPN5EeyQfpYfjW-H4w" name="gemini" xmi:id="__ofVcPN5EeyQfpYfjW-H4w">
+    <ownedElement name="public" xmi:id="__of8gPN5EeyQfpYfjW-H4w" xsi:type="orgomg.cwm.resource.relational:Schema"/>
+  </orgomg.cwm.resource.relational:Catalog>
+<Signature xmlns="http://www.w3.org/2000/09/xmldsig#" Id="_e19369c6-e2ab-4d90-8281-be71d86aed27"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#"/><SignatureMethod Algorithm="http://www.w3.org/2001/04/xmldsig-more#rsa-sha512"/><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature"/></Transforms><DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha512"/><DigestValue>T6WFqw1/899CYpWZFuP7sC6WqB5+Te25tWhOChhyYSK7rtUJtFlAmXnaZMAmnBA1okqA4E6Om0QZ&#13;
+19hLzF2g1g==</DigestValue></Reference><Reference Type="http://www.w3.org/2000/09/xmldsig#SignatureProperties" URI="#_eba549e9-1d5e-4b12-ba71-232831845ae9"><Transforms><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#"/></Transforms><DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha512"/><DigestValue>9HauhTqyostRXgdSUIbNnZ6r4DGoEaKRWSjzWUhfE49/BukDbTIfPZAqja6pY53Ok/tysrGBuhsb&#13;
+MtEkxgoPYw==</DigestValue></Reference></SignedInfo><SignatureValue>KIj8woPWZw1r49sRUCXQsxQ3dSAS7OSs+GMnfap3w8ScXS0np3KxMYtJ1c0Nx1I/t7UC5vJUj9Er&#13;
+t/ZjlwANUWgfsHZe5YoVThvaXmMWE9vlelH7t7Bw7iKf9H/1ZBVSDt39NOwcxDLHdIVJ/wgjJvFu&#13;
+GNrvwPMpznG7wJSafifhf0zvllC9FLSuLG4VFtOsr7EfQiDkaVvyyB15Ur3/hJYqXWOKzcl79LnN&#13;
+AH64yYZkH58BrWLW5pouT4o1gsOwwa1fNuSw74MhlSY0pvHN+i+x3zm5zDW/xIvH739Q/TKb5+LS&#13;
+huO4PDVIIEcVtCjIkeNujlJ6QfZPmgl+WgZ4uQ==</SignatureValue><KeyInfo><X509Data><X509SubjectName>C=FR,ST=Paris,L=Paris,O=Talend Inc.,OU=R&amp;D,CN=Talend Code Signing certificate</X509SubjectName><X509Certificate>MIIFADCCAuigAwIBAgIIA2OsD6bRyj0wDQYJKoZIhvcNAQELBQAwgY0xCzAJBgNVBAYTAkZSMQ4w&#13;
+DAYDVQQIEwVQYXJpczEOMAwGA1UEBxMFUGFyaXMxFDASBgNVBAoTC1RhbGVuZCBJbmMuMQwwCgYD&#13;
+VQQLDANSJkQxFjAUBgNVBAMMDVRhbGVuZCBSJkQgQ0ExIjAgBgkqhkiG9w0BCQEWE3NlY3VyaXR5&#13;
+QHRhbGVuZC5jb20wHhcNMTkwNjAzMDgxODIwWhcNMjkwNjAzMDAwMDAwWjB7MSgwJgYDVQQDEx9U&#13;
+YWxlbmQgQ29kZSBTaWduaW5nIGNlcnRpZmljYXRlMQwwCgYDVQQLDANSJkQxFDASBgNVBAoTC1Rh&#13;
+bGVuZCBJbmMuMQ4wDAYDVQQHEwVQYXJpczEOMAwGA1UECBMFUGFyaXMxCzAJBgNVBAYTAkZSMIIB&#13;
+IjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAp5TMF8BmRt8dY51t9kIDdDkoOKVVytJN2gn2&#13;
+DhMGi8hzpUofNDykJDhe9SPqyJdGZ6o/h7laTA0/CivKyPT1OJQ9E2gMHKs8cTZM/cO2w0Atlqkl&#13;
+alIxepol0DNnUtmECVBqdnVsJesfmdoeptxgJAtxYbquFsTsrATNY2cscXpwmOca/Ewip48WQLFx&#13;
+e5s067jaIsAQGRIqpIup3bOtWBySrtImJ40lQCPeEcl96qzkv3utaVaNc3ukkhYkCDbMbK8NVd1B&#13;
+CVeeIBAe+n/SdpHH20o+6eIiZecsBGDLwlTYrFvuVqAa6xI7y8Vdz6irjPAVBEtG/iOc782aJ/lZ&#13;
+TwIDAQABo3UwczAMBgNVHRMBAf8EAjAAMA4GA1UdDwEB/wQEAwIHgDATBgNVHSUEDDAKBggrBgEF&#13;
+BQcDAzAdBgNVHQ4EFgQUGdfzQEbjQnANq28sfhEMTx+rsOcwHwYDVR0jBBgwFoAU530Lcvy1gZnG&#13;
+gCvZLOyCczK1qPcwDQYJKoZIhvcNAQELBQADggIBAEr22wnaQwZm2dhbUCqD+qZpTq2AF/tzxqAM&#13;
+eL/CiTjPbTblS4SNNwCKvTgMe9ucpUbenXmK7xE+DU9dN4om+t3VHbkOLQVyuLcd2WGsy7ZGwRvA&#13;
+f+TFwLbwjyTukOGm6Sd1qyZgvCPzBsKnft6vscvGy2yEpmFCeHJyBP8pvchg607zguRdNbkGYZXw&#13;
+G6jNipAbTtzdPTFKKr1bEf0sUGqMrlZIMPjflh2Vewu8ImNdX5IZdvBD6DdFVOC5wqV6u+W9ukE/&#13;
+mXZxDBYNl2AF7FTh04ucEVN3mHv7m2L0uFvUlhxchcagJhJsdQG+A0LVCemHbp6CSNQJx02KxqUG&#13;
+hakvpzhOyLo91h8YAQrEZJdNuKA8IYmBrFZQZDCz0uywKSyFfzPyJhvxylCLG/iDPPfE0VWcrMJ/&#13;
+WQJly/2XPg/NBCTF3pSKS0kCiA7PeaI3cWkMYYA3PMwYDvzqs1opBRglG7ikj0bQxSm3lcjMuuvW&#13;
+gBRksFKjP3K/nztsjSoYITOM9jR29ReIL3v0E8RbAFwA2RGq6Dxd0ixfbucMesy5Gnr8tfYy6rW+&#13;
+qSQqd3ah4+PSzBNVwIB4ytpdrG3SlhCI2i2Th8ek8Sjsaquh9qPAerWNd2+84HWOOGj1Xe1qc6vg&#13;
+qqu6JoK9EXKDiwBqDVkueIa+MhamE1VDnhn2pPui</X509Certificate></X509Data></KeyInfo><Object><SignatureProperties><SignatureProperty Id="_eba549e9-1d5e-4b12-ba71-232831845ae9" Target="#_e19369c6-e2ab-4d90-8281-be71d86aed27"><Timestamp>2022-06-28 00:07:41</Timestamp></SignatureProperty></SignatureProperties></Object></Signature></xmi:XMI>
