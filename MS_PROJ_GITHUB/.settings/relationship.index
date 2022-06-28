@@ -1,5 +1,24 @@
 [ {
   "baseItem" : {
+    "id" : "_2nnuEAvbEeyCbsANBFFyEg",
+    "version" : "0.1",
+    "type" : "job"
+  },
+  "relatedItems" : [ {
+    "id" : "_722bkJbOEeyU-rOokh4qVQ",
+    "version" : "Latest",
+    "type" : "property"
+  }, {
+    "id" : "_T6Zi8Il3Eeu4V75jZL6q_g",
+    "version" : "Latest",
+    "type" : "property"
+  }, {
+    "id" : "MDM",
+    "version" : "Latest",
+    "type" : "routine"
+  } ]
+}, {
+  "baseItem" : {
     "id" : "_K1k8IPN-EeyQfpYfjW-H4w",
     "version" : "0.1",
     "type" : "job"
@@ -43,5 +62,20 @@
     "id" : "_er5YkPN5EeyQfpYfjW-H4w - 顧客基本B",
     "version" : "Latest",
     "type" : "schema"
+  } ]
+}, {
+  "baseItem" : {
+    "id" : "_pw4EsJUNEeypt-3FHnvWtw",
+    "version" : "0.1",
+    "type" : "job"
+  },
+  "relatedItems" : [ {
+    "id" : "_T6Zi8Il3Eeu4V75jZL6q_g",
+    "version" : "Latest",
+    "type" : "property"
+  }, {
+    "id" : "MDM",
+    "version" : "Latest",
+    "type" : "routine"
   } ]
 } ]
