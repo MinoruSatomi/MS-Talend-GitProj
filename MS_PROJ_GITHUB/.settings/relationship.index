@@ -78,4 +78,15 @@
     "version" : "Latest",
     "type" : "routine"
   } ]
+}, {
+  "baseItem" : {
+    "id" : "_yHv1YPZ7Eey4zc_aR9mrxg",
+    "version" : "0.1",
+    "type" : "job"
+  },
+  "relatedItems" : [ {
+    "id" : "_KnyAMPZ9Eey4zc_aR9mrxg - Demo顧客情報",
+    "version" : "Latest",
+    "type" : "schema"
+  } ]
 } ]
