@@ -253,13 +253,17 @@
     "type" : "job"
   },
   "relatedItems" : [ {
+    "id" : "_4ATxEPd0EeyL5dMMPHBzRg",
+    "version" : "Latest",
+    "type" : "property"
+  }, {
     "id" : "_er5YkPN5EeyQfpYfjW-H4w",
     "version" : "Latest",
     "type" : "property"
   }, {
-    "id" : "_yR4AAPOBEeyQfpYfjW-H4w",
+    "id" : "_4ATxEPd0EeyL5dMMPHBzRg - A事業部",
     "version" : "Latest",
-    "type" : "property"
+    "type" : "schema"
   }, {
     "id" : "_er5YkPN5EeyQfpYfjW-H4w - A事業部",
     "version" : "Latest",
