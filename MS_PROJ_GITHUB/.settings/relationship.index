@@ -248,29 +248,6 @@
   } ]
 }, {
   "baseItem" : {
-    "id" : "_noNWsPdzEeyL5dMMPHBzRg",
-    "version" : "0.1",
-    "type" : "job"
-  },
-  "relatedItems" : [ {
-    "id" : "_4ATxEPd0EeyL5dMMPHBzRg",
-    "version" : "Latest",
-    "type" : "property"
-  }, {
-    "id" : "_er5YkPN5EeyQfpYfjW-H4w",
-    "version" : "Latest",
-    "type" : "property"
-  }, {
-    "id" : "_4ATxEPd0EeyL5dMMPHBzRg - A事業部",
-    "version" : "Latest",
-    "type" : "schema"
-  }, {
-    "id" : "_er5YkPN5EeyQfpYfjW-H4w - A事業部",
-    "version" : "Latest",
-    "type" : "schema"
-  } ]
-}, {
-  "baseItem" : {
     "id" : "_pw4EsJUNEeypt-3FHnvWtw",
     "version" : "0.1",
     "type" : "job"
