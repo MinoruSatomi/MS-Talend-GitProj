@@ -204,30 +204,6 @@
     "id" : "_iRv7EPdBEeyL5dMMPHBzRg",
     "version" : "Latest",
     "type" : "context"
-  }, {
-    "id" : "_er5YkPN5EeyQfpYfjW-H4w",
-    "version" : "Latest",
-    "type" : "property"
-  }, {
-    "id" : "_yR4AAPOBEeyQfpYfjW-H4w",
-    "version" : "Latest",
-    "type" : "property"
-  }, {
-    "id" : "_er5YkPN5EeyQfpYfjW-H4w - A事業部",
-    "version" : "Latest",
-    "type" : "schema"
-  }, {
-    "id" : "_er5YkPN5EeyQfpYfjW-H4w - B事業部",
-    "version" : "Latest",
-    "type" : "schema"
-  }, {
-    "id" : "_er5YkPN5EeyQfpYfjW-H4w - C事業部",
-    "version" : "Latest",
-    "type" : "schema"
-  }, {
-    "id" : "_yR4AAPOBEeyQfpYfjW-H4w - DEMOMERGEDCUSTOMERS",
-    "version" : "Latest",
-    "type" : "schema"
   } ]
 }, {
   "baseItem" : {
