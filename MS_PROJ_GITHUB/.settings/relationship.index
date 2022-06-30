@@ -105,7 +105,23 @@
     "version" : "Latest",
     "type" : "property"
   }, {
+    "id" : "_4ATxEPd0EeyL5dMMPHBzRg",
+    "version" : "Latest",
+    "type" : "property"
+  }, {
+    "id" : "_er5YkPN5EeyQfpYfjW-H4w",
+    "version" : "Latest",
+    "type" : "property"
+  }, {
     "id" : "_1gDFcPgREeyP-5CRpqIFRw - Webコンタクト",
+    "version" : "Latest",
+    "type" : "schema"
+  }, {
+    "id" : "_4ATxEPd0EeyL5dMMPHBzRg - A事業部",
+    "version" : "Latest",
+    "type" : "schema"
+  }, {
+    "id" : "_er5YkPN5EeyQfpYfjW-H4w - B事業部",
     "version" : "Latest",
     "type" : "schema"
   } ]
