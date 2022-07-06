@@ -429,6 +429,25 @@
   } ]
 }, {
   "baseItem" : {
+    "id" : "_jU5IUP0OEey4IPD0KJRH9Q",
+    "version" : "0.1",
+    "type" : "job"
+  },
+  "relatedItems" : [ {
+    "id" : "_er5YkPN5EeyQfpYfjW-H4w",
+    "version" : "Latest",
+    "type" : "property"
+  }, {
+    "id" : "_yR4AAPOBEeyQfpYfjW-H4w",
+    "version" : "Latest",
+    "type" : "property"
+  }, {
+    "id" : "_er5YkPN5EeyQfpYfjW-H4w - CampaignCustomers",
+    "version" : "Latest",
+    "type" : "schema"
+  } ]
+}, {
+  "baseItem" : {
     "id" : "_jcAr8PeHEeyL5dMMPHBzRg",
     "version" : "0.1",
     "type" : "job"
