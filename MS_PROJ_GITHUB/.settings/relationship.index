@@ -581,15 +581,4 @@
     "version" : "Latest",
     "type" : "schema"
   } ]
-}, {
-  "baseItem" : {
-    "id" : "_mdkaAPzNEeyIjsBPu7RMGQ",
-    "version" : "0.1",
-    "type" : "test_case"
-  },
-  "relatedItems" : [ {
-    "id" : "_kA8j0H_MEey1BJ2kpxjzDw",
-    "version" : "0.1",
-    "type" : "test_case"
-  } ]
 } ]
