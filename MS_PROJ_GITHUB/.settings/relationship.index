@@ -143,6 +143,17 @@
   } ]
 }, {
   "baseItem" : {
+    "id" : "_O6a70P5ZEeyXYsyu03hthA",
+    "version" : "0.1",
+    "type" : "job"
+  },
+  "relatedItems" : [ {
+    "id" : "built-in",
+    "version" : "Latest",
+    "type" : "context"
+  } ]
+}, {
+  "baseItem" : {
     "id" : "_QKNNUGZ8EeWm5YvsrIoYzQ",
     "version" : "0.1",
     "type" : "job"
@@ -388,5 +399,16 @@
     "id" : "_yR4AAPOBEeyQfpYfjW-H4w - DEMOMERGEDCUSTOMERS",
     "version" : "Latest",
     "type" : "schema"
+  } ]
+}, {
+  "baseItem" : {
+    "id" : "_O6a70P5ZEeyXYsyu03hthA",
+    "version" : "0.1",
+    "type" : "test_case"
+  },
+  "relatedItems" : [ {
+    "id" : "_585nwP5SEeyXYsyu03hthA",
+    "version" : "0.1",
+    "type" : "test_case"
   } ]
 } ]
