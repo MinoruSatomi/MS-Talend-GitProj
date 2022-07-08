@@ -422,37 +422,4 @@
     "version" : "Latest",
     "type" : "schema"
   } ]
-}, {
-  "baseItem" : {
-    "id" : "_0Jn8YP5kEeyXYsyu03hthA",
-    "version" : "0.1",
-    "type" : "test_case"
-  },
-  "relatedItems" : [ {
-    "id" : "_585nwP5SEeyXYsyu03hthA",
-    "version" : "0.1",
-    "type" : "test_case"
-  } ]
-}, {
-  "baseItem" : {
-    "id" : "_O6a70P5ZEeyXYsyu03hthA",
-    "version" : "0.1",
-    "type" : "test_case"
-  },
-  "relatedItems" : [ {
-    "id" : "_585nwP5SEeyXYsyu03hthA",
-    "version" : "0.1",
-    "type" : "test_case"
-  } ]
-}, {
-  "baseItem" : {
-    "id" : "_u1zd4P5aEeyXYsyu03hthA",
-    "version" : "0.1",
-    "type" : "test_case"
-  },
-  "relatedItems" : [ {
-    "id" : "_585nwP5SEeyXYsyu03hthA",
-    "version" : "0.1",
-    "type" : "test_case"
-  } ]
 } ]
